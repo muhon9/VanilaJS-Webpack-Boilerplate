@@ -42,7 +42,7 @@ Builds the app for production to the `dist` folder.
 
 You can view the prodction build using any server. Use `serve` to see the production
 
-### `npm -g i serve`
+### `npm i -g serve`
 
 This will install serve globally
 

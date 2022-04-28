@@ -7,11 +7,11 @@
 It was a webpack learing project mainly. I tried to apply all the knowledges and techniques i found on internet. I started with webpack documentation tutorial and added different plugins as my need. I have taken a lot of concepts from various content. 
 
 
-## :sparkles Features
+## :sparkles: Features ##
 
-:heavy_check_mark:&nbsp; [webpack](https://webpack.js.org/)
-:heavy_check_mark:&nbsp; [Sass](https://sass-lang.com/)
-:heavy_check_mark:&nbsp; [PostCSS](https://postcss.org/)
+:heavy_check_mark:&nbsp; [webpack](https://webpack.js.org/)<br/>
+:heavy_check_mark:&nbsp; [Sass](https://sass-lang.com/)<br/>
+:heavy_check_mark:&nbsp; [PostCSS](https://postcss.org/)<br/>
 
 
 ## How To Use It
